@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "explodeblock:explode_block"
+  },
+  "result": "explodeblock:explode_core",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "explodeblock:explode_block"
+    }
+  ],
+  "result": {
+    "item": "explodeblock:explode_core"
+  }
+}
